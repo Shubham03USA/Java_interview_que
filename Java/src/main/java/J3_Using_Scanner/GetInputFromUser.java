@@ -2,7 +2,8 @@ package J3_Using_Scanner;
 
 import java.util.Scanner;
 
-public class GetInputFromUser {
+public class GetInputFromUser 
+{
 
 	public static void main(String[] args)
 	{
